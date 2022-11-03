@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<usuario id = "1">
+	<url>jdbc:mysql://localhost:3306/books</url>
+	<user>root</user>
+	<pass></pass>
+</usuario>
